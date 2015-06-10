@@ -1,7 +1,0 @@
-This is to access all the basic concepts easily
-
-Concepts:
-Core Java
-Collection API
-Design Patterns
-Data Structures
