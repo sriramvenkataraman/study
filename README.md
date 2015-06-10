@@ -1,5 +1,8 @@
 # study
 Revise the concepts
-Data Structures
-Algorithms
-Design Patterns
+
+* Data Structures
+
+* Algorithms
+
+* Design Patterns
